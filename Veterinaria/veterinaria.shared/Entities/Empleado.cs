@@ -9,7 +9,7 @@ namespace veterinaria.shared.Entidades
     public class Empleado
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public String Name { get; set; }
 
     }
 }
